@@ -16,6 +16,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-1. Clone the repo: ``
+1. Clone the repo: `https://github.com/AxelAlinsky/YT-saucedemo`
 2. Navigate to the project directory: `cd YT-saucedemo`
 3. Install dependencies: `npm install`
